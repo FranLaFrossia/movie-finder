@@ -1,0 +1,17 @@
+:root {
+  --greenPrimary: #5CDB95;
+  --greenSecondary: #05386B;
+  --camel: #EDF5E1;
+  --black: #222222;
+}
+.wrapper {
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+  .wrapper.--main {
+    max-width: 1180px;
+  }
+img {
+  max-width: 100%;
+}
